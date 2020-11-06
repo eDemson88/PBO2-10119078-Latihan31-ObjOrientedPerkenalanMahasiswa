@@ -35,7 +35,7 @@ public class PBOIF210119078Latihan31ObjOrientedPerkenalanMahasiswa {
         Mahasiswa mhs4 = new Mahasiswa();
         mhs4.setNim("10110272");
         mhs4.setNama("Muhammad Nur Awaludin");
-        mhs4.perkenalanDiri();  
+    mhs4.perkenalanDiri();  
     }
     
 }
